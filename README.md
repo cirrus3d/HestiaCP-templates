@@ -13,4 +13,5 @@ Afterwards, you can select the template in the HestiaCP control panel
 | File | Application | Description | Reference |
 | ---- | ----------- | ------------|---------- |
 | wordpress-webpc | Converter for Media | HestiaCP Template for the **Converter for Media** WordPress plugin | [Mattplugins.com website](https://mattplugins.com/docs/nginx-configuration) |
+| nodeproject | Generic Node project template | HestiaCP Template for a generic NodeJS project. It takes for granted that the Node server port is 4000, your api is at /api and there is a build folder in your public_html | None |
 
